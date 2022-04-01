@@ -57,8 +57,8 @@ plt.show()
 ```
 
 ## Output:
-![Githublogo](1.PNG) 
-![Githublogo](2.PNG)
+![Githublogo](1.png) 
+![Githublogo](2.png)
 
 
 ## Result:
