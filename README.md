@@ -24,6 +24,7 @@ Developed by: Javith farkhan.S
 RegisterNumber: 212221240017 
 */
 ```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -53,7 +54,6 @@ plt.title("Hours vs Scores(testing set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
 ```
 
 ## Output:
