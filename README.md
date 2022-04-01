@@ -55,8 +55,8 @@ plt.ylabel("Scores")
 plt.show()
 
 ## Output:
-!Githublogo[1.png]
-!Githublogo[2.png]
+![Githublogo](1.png)
+![Githublogo](2.png)
 
 
 ## Result:
